@@ -1,0 +1,11 @@
+.host {
+  border: 3px dotted rgb(248, 166, 166);
+  background-color: rgba(248, 166, 166, 0.192);
+  border-radius: 4px;
+  height: 200px;
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
